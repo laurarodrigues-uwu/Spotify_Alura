@@ -1,0 +1,52 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://assets0.setlisting.cdn.crowds.dk/artists/4ea1daad349f745fc900038d/foo-fighters-960126baa9.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": 3,
+        "name": "Emicida",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+      },
+      {
+        "id": 4,
+        "name": "Chitãozinho e Xororó",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+      },
+      {
+        "id": 5,
+        "name": "MC Mazzie",
+        "genre": "Funk",
+        "urlImg": "https://yt3.googleusercontent.com/auC2twss2B7oxDMrHFr0GQJAxTOZ80giDuQZ4LeUbP0C0a51W4ODENjsB4FxT1weYQHWB3YdjYE=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": 6,
+        "name": "Arlindo Cruz",
+        "genre": "Samba",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+      },
+      {
+        "id": 7,
+        "name": "Rammstein",
+        "genre": "Industrial Metal",
+        "urlImg": "https://podcasts.podinstall.com/assets/img/rs/256/93882387c2880cc16e0df6948a365665d79dc51a/a303aeb01ce834ca3b5f032b5bfeff4c416364f8.png"
+      },
+      {
+        "id": 8,
+        "name": "Black Sabbath",
+        "genre": "Heavy Metal",
+        "urlImg": "https://lh3.googleusercontent.com/DvpOh4gP93F7IvpgquneYfSK9pwaHDZ4NptCpDAiakAapVTbN81nDok6VYI-68HmxSSQGBGYzYNhhA=w544-h544-p-l90-rj"
+      }
+    ]
+  }
